@@ -42,12 +42,12 @@
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,fontawesome,ejs,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,sql Server" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlserver" />
 </p>
 
 ### 🗄️ Databases
