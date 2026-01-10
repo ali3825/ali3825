@@ -23,7 +23,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/ashgar-shaikh/)" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://github.com/ali3825" target="_blank">
@@ -37,17 +37,17 @@
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql" />
 </p>
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,fontawesome,ejs,react,tailwind" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,sql Server" />
 </p>
 
 ### 🗄️ Databases
