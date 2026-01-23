@@ -9,14 +9,7 @@
 
 </div>
 
----
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Prescriptive Smart Traffic**
-- 🌱 Learning **Machine Learning** & **Node.js**
-- 💡 Interested in **Frontend, Smart Systems & AI-driven solutions**
-- 🤝 Open to collaborating on meaningful projects
 
 ---
 
