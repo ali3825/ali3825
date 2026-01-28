@@ -1,15 +1,9 @@
 <!-- HEADER SECTION -->
 <div align="center">
   
-  <!-- Simple Title with Gradient Text -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=4B6CB7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ashgar+Ali;Frontend+Developer;React+Specialist" alt="Typing Animation" />
-  </h1>
+  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,15&height=180&section=header&text=Ashgar%20Ali&fontAlign=50&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlign=50&descSize=20)
   
-  <h3>🇮🇳 From India | Crafting Digital Experiences with Code</h3>
-  
-  <!-- Wave Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&reversal=true&animation=twinkling" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4B6CB7&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences+with+Code;Turning+Ideas+into+Interactive+Reality;Passionate+Frontend+Developer;From+India+🇮🇳)](https://git.io/typing-svg)
   
   ![Visitors](https://komarev.com/ghpvc/?username=ali3825&label=Profile%20Views&color=4B6CB7&style=for-the-badge&labelColor=182848)
 
@@ -138,7 +132,7 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 <!-- FOOTER -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" />
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,12,8,4,2,0&height=120&section=footer&fontColor=ffffff&animation=fadeIn)
   
   <p align="center">
     <i>⚡ Code | Create | Innovate ⚡</i><br />
