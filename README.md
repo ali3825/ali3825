@@ -1,11 +1,8 @@
 <!-- HEADER SECTION -->
 <div align="center">
   
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,15&height=180&section=header&text=Ashgar%20Ali&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlign=50&descAlignY=62&descSize=20)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,15&height=220&section=header&text=Ashgar%20Ali&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlign=50&descAlignY=63&descSize=22)
 
-
-
-  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4B6CB7&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences+with+Code;Turning+Ideas+into+Interactive+Reality;Passionate+Frontend+Developer;From+India+🇮🇳)](https://git.io/typing-svg)
 
 </div>
