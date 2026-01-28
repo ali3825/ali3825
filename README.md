@@ -1,7 +1,8 @@
 <!-- HEADER SECTION -->
 <div align="center">
   
- ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,15&height=220&section=header&text=Ashgar%20Ali&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlign=50&descAlignY=65&descSize=22)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12,15&height=180&section=header&text=Ashgar%20Ali&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlign=50&descAlignY=62&descSize=20)
+
 
 
   
