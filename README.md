@@ -35,9 +35,8 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 
 ### **Learning Currently**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redux,graphql,python,numpy,pandas,firebase" alt="currently learning" />
+  <img src="https://skillicons.dev/icons?i=graphql,python,numpy,pandas,firebase&size=48" alt="currently learning" />
 </p>
-
 
 <br />
 
@@ -68,13 +67,11 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 | **[Task Manager App](https://github.com/ali3825)** | Productivity application with drag & drop | React, TypeScript, Tailwind CSS |
 | **[Weather Dashboard](https://github.com/ali3825)** | Real-time weather forecasting tool | React, OpenWeather API, Chart.js |
 
-
 <br />
 
 ## 📊 Development Activity
 
-[![Ashgar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali3825&theme=reactdark&bg_color=0d1117&color=4B6CB7&line=182848&point=4B6CB7&area=true&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashgar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali3825&theme=reactdark&bg_color=0d1117&color=4B6CB7&line=182848&point=4B6CB7&area=true&hide_border=true&height=340)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
@@ -114,4 +111,3 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 </p>
 
 </div>
-
