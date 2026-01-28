@@ -35,8 +35,9 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 
 ### **Learning Currently**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,python,numpy,pandas,firebase&size=48" alt="currently learning" />
+  <img src="https://skillicons.dev/icons?i=graphql,python&size=48" alt="currently learning" />
 </p>
+
 
 <br />
 
@@ -96,7 +97,8 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
     <a href="https://portfolio-website-link.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=ali3825&style=for-the-badge&color=4B6CB7" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali3825.profile&left_color=black&right_color=4B6CB7&style=for-the-badge" />
+
   </p>
 
 </div>
