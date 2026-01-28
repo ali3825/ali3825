@@ -1,4 +1,3 @@
-```markdown
 <!-- HEADER SECTION -->
 <div align="center">
   
@@ -16,21 +15,14 @@
 
 I'm a passionate Frontend Developer specializing in React.js and modern JavaScript ecosystems. I enjoy creating responsive, user-friendly interfaces and solving complex problems with clean, efficient code. Currently expanding my expertise in full-stack development with Node.js and MongoDB.
 
-```javascript
-const ashgar = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "Java", "Python", "C"],
-  technologies: {
-    frontend: ["React", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL", "SQL Server"],
-    tools: ["Git", "GitHub", "Figma", "VS Code", "Postman"]
-  },
-  currentFocus: "Building scalable web applications",
-  learning: ["Advanced React Patterns", "Next.js", "TypeScript"],
-  funFact: "I can turn coffee ☕ into code 💻"
-};
-```
+### 🎯 **My Technical Stack:**
+- **Programming Languages:** JavaScript, Java, Python, C
+- **Frontend:** React, Tailwind CSS, Bootstrap, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, SQL Server
+- **Tools:** Git, GitHub, Figma, VS Code, Postman
+- **Currently Learning:** Advanced React Patterns, Next.js, TypeScript
+- **Fun Fact:** I can turn coffee ☕ into code 💻
 
 <br />
 
@@ -148,4 +140,3 @@ const ashgar = {
   </p>
   
 </div>
-```
