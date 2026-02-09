@@ -40,21 +40,13 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 
 
 <br />
-
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ali3825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&icon_color=4B6CB7&text_color=ffffff" alt="Ashgar's GitHub stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali3825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&text_color=ffffff&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali3825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&icon_color=4B6CB7&text_color=ffffff&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali3825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+</p>
+
 
 
 <br />
