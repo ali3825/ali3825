@@ -42,10 +42,32 @@ I'm a passionate Frontend Developer specializing in React.js and modern JavaScri
 <br />
 ## 📈 GitHub Analytics
 
+<br />
+
+## 📈 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali3825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&icon_color=4B6CB7&text_color=ffffff&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali3825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ali3825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&icon_color=4B6CB7&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=60" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali3825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4B6CB7&text_color=ffffff&langs_count=8&cache_seconds=60" 
+    height="165"
+  />
 </p>
+
+<br />
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ali3825&theme=react-dark&bg_color=0d1117&color=4B6CB7&line=4B6CB7&point=ffffff&area=true&hide_border=true" 
+    width="95%"
+  />
+</p>
+
+<br />
 
 
 
